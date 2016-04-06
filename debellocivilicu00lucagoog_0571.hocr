@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./debellocivilicu00lucagoog/debellocivilicu00lucagoog_0571.png"; bbox 0 0 2708 4866; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 200 2463 1299 2638">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 200 2463 1299 2638">
+     <span class='ocr_line' id='line_1_1' title="bbox 200 2463 1299 2548; baseline -0.004 -19"><span class='ocrx_word' id='word_1_1' title='bbox 200 2467 291 2529; x_wconf 62' lang='grc' dir='ltr'>ὅση</span> <span class='ocrx_word' id='word_1_2' title='bbox 314 2477 345 2527; x_wconf 85' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_3' title='bbox 362 2467 497 2529; x_wconf 70' lang='lat' dir='ltr'>Petreius</span> <span class='ocrx_word' id='word_1_4' title='bbox 514 2487 548 2529; x_wconf 78' lang='lat' dir='ltr'>se</span> <span class='ocrx_word' id='word_1_5' title='bbox 570 2469 679 2529; x_wconf 80' lang='lat' dir='ltr'>mutuis</span> <span class='ocrx_word' id='word_1_6' title='bbox 701 2467 869 2530; x_wconf 76' lang='lat' dir='ltr'>vulneribus</span> <span class='ocrx_word' id='word_1_7' title='bbox 893 2463 1082 2529; x_wconf 78' lang='lat' dir='ltr'>interficiunt.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1105 2464 1253 2548; x_wconf 73' lang='lat' dir='ltr'>Scipionis</span> <span class='ocrx_word' id='word_1_9' title='bbox 1272 2477 1299 2526; x_wconf 77' lang='lat' dir='ltr'>et</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 241 2572 654 2638; baseline 0.01 -4"><span class='ocrx_word' id='word_1_10' title='bbox 241 2572 359 2634; x_wconf 66' lang='lat' dir='ltr'>entonis</span> <span class='ocrx_word' id='word_1_11' title='bbox 372 2573 433 2635; x_wconf 72' lang='lat' dir='ltr'>fatu</span> <span class='ocrx_word' id='word_1_12' title='bbox 442 2573 654 2638; x_wconf 76' lang='lat' dir='ltr'>describuntur.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1358 4866">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1358 4866">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1358 4866; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1358 4866; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
