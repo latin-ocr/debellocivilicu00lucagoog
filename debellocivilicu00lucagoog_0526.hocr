@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./debellocivilicu00lucagoog/debellocivilicu00lucagoog_0526.png"; bbox 0 0 2708 4866; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 400 1977 1058 2087">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 400 1977 1058 2087">
+     <span class='ocr_line' id='line_1_1' title="bbox 400 1977 1058 2087; baseline -0.003 -10"><span class='ocrx_word' id='word_1_1' title='bbox 400 1988 820 2087; x_wconf 70' lang='lat' dir='ltr'>SUPPIAEMENTUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 922 1987 923 1992; x_wconf 69' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1054 1977 1058 1982; x_wconf 76' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 222 2169 1144 2380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 222 2169 1276 2380">
+     <span class='ocr_line' id='line_1_2' title="bbox 222 2169 1144 2380; baseline -0.008 -40"><span class='ocrx_word' id='word_1_4' title='bbox 222 2169 1144 2380; x_wconf 65' lang='lat' dir='ltr'>LUCANLI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 458 2491 755 2550">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 458 2491 755 2550">
+     <span class='ocr_line' id='line_1_3' title="bbox 458 2491 755 2550; baseline -0.013 0"><span class='ocrx_word' id='word_1_5' title='bbox 458 2491 571 2550; x_wconf 79' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 588 2491 755 2548; x_wconf 82' lang='lat' dir='ltr'><strong>SEPTEM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 533 2723 676 2766">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 533 2723 676 2766">
+     <span class='ocr_line' id='line_1_4' title="bbox 533 2723 676 2766; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 533 2723 676 2766; x_wconf 70' lang='lat' dir='ltr'>maon</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 404 2869 823 2950">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 404 2869 823 2950">
+     <span class='ocr_line' id='line_1_5' title="bbox 404 2869 823 2950; baseline -0.005 -12"><span class='ocrx_word' id='word_1_8' title='bbox 404 2870 613 2940; x_wconf 86' lang='lat' dir='ltr'>THOMA</span> <span class='ocrx_word' id='word_1_9' title='bbox 657 2869 823 2950; x_wconf 80' lang='lat' dir='ltr'><strong>MAJO,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 548 3044 671 3094">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 548 3044 671 3094">
+     <span class='ocr_line' id='line_1_6' title="bbox 548 3044 671 3094; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 548 3044 671 3094; x_wconf 67' lang='lat' dir='ltr'><strong>Anam.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1358 4866">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1358 4866">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1358 4866; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1358 4866; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
